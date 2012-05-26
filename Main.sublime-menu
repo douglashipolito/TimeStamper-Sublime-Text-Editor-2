@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Preferences",
+        "mnemonic": "n",
+        "id": "preferences",
+        "children":
+        [
+            {     
+                "caption": "TimeStamper",
+                "children":
+                [
+                    {
+                        "command": "open_file", 
+                        "args": {"file": "${packages}/TimeStamper/TimeStamper.sublime-settings"},
+                        "caption": "Settings – Default"
+                    },
+                    {
+                        "command": "open_file", 
+                        "args": {"file": "${packages}/User/TimeStamper.sublime-settings"},
+                        "caption": "Settings – User"
+                    }
+                ]   
+            }
+        ]
+    }
+]
