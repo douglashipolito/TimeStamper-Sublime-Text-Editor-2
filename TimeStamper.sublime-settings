@@ -1,4 +1,4 @@
 {
-    "accepted_paths"        : ["*"],
-    "accepted_extensions"   : ["js","css"]
+	"accepted_paths": ["*"],
+	"accepted_extensions": ["js", "css"]
 }
