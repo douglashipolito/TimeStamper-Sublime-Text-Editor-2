@@ -1,2 +1,32 @@
-TimeStamper---Sublime-Text-Editor-2
-===================================
+# Time Stamper for Sublime Text
+
+This plugin includes in the header file the date and time it was saved.
+Useful to check the file version on servers with cache.
+
+## Installation
+
+TODO: Describe the installation process
+
+## Usage
+
+TODO: Write usage instructions
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+TODO: Write history
+
+## Credits
+
+TODO: Write credits
+
+## License
+
+TODO: Write license
