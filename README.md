@@ -1,4 +1,4 @@
-# TimeStamper for Sublime Text
+# Time Stamper for Sublime Text
 
 This plugin includes in the header file the date and time it was saved.
 Useful to check the file version on servers with cache.
